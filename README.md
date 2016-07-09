@@ -9,4 +9,5 @@ Ask the user for two numbers: one number to check and one number to divide by.
 If check divides evenly into num, tell that to the user. If not, print a different appropriate message.
 
 ## Practice Python 
+The excersie was obtained from this website.
 http://www.practicepython.org/
