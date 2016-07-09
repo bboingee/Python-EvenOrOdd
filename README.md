@@ -11,3 +11,7 @@ If check divides evenly into num, tell that to the user. If not, print a differe
 ## Practice Python 
 The excersie was obtained from this website.
 http://www.practicepython.org/
+
+## About
+Programmed by Bentley Kang
+
